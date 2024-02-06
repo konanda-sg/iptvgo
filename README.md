@@ -992,150 +992,180 @@ https://mwmpos03.akamaized.net/out/v1/d5536f0898994112a118290f25e5648b/manifest.
 #KODIPROP:inputstream.adaptive.license_key=af2dc6a1c9754ec7b0ff0377da872153:7af660ca428760dfbe99e10047e0e2e4
 https://mwmpos01.akamaized.net/out/v1/ee3d338d368f453a9c4181d119599e05/manifest.mpd
 
-###############    FIRSTMEDIA   ##########################
-###########################################################
 
-#EXTINF:-1 group-title="FIRSTMEDIA",MOJI HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch26)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",TRANSTV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch396)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",TRANS7 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch397)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",ANTV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch390)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",BTV
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch360)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",BERITASATU WORLD
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch19)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",JAKARTA GLOBE
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch2)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",KOMPASTV HD
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch410)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",METROTV HD
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch394)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",IDX CHANNEL
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch389)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",GARUDATV
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch45)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",DAAITV
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch128)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",HOREE!
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch375)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",JAKTV
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch392)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",JTV
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch17)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",TV9 NUSANTARA
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch352)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",WESTJAVA NETWORK
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch50)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",BALAIKOTA CHANNEL
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch73)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",BALAIKOTA BANDUNG
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch102)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",FIRST WARRIORS
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch999)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",FIRST LIFESTYLE
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",CITRA MUSLIM
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch334)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",CITRA BIOSKOP
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch376)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",CITRA DRAMA
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch378)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",CITRA DANGDUT
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch377)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",CITRA ENTERTAINMENT
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch379)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",TVRI
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch399)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",AXN
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch332)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",PARAMOUNT NETWORK
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch309)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",ROCK ACTION
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch330)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",ROCK ENTERTAINMENT
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch335)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",HITSMOVIE
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch324)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",HITS
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch326)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",SONY MAX
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch174)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",KIX
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch336)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",TVN
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch339)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",TVNMOVIES
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch343)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",KBSWORLD
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch262)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",ONE
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch338)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",ZEEBIOSKOP
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch161)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",SPOTV
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch329)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",SPOTV2
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3300)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",EUROSPORT
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch21)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",CGTN DOCUMENTARY
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch405)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",DISCOVERY CHANNEL
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch29)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",ANIMAL PLANET
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch31)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",LOVENATURE
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch368)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",HISTORY
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch131)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",CRIMEINVESTIGATION
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch349)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",TECHSTORM
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch333)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",GLOBAL TREKKER
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch366)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",DREAMWORK
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch374)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",LIFETIME
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch155)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",HGTV
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch354)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",TLC
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch35)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",AFN
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch76)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",FOOD NETWORK
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch355)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",FASHIONTV
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch168)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",DAVINCI
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch371)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",ANIMAX
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch52)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",BOOMERANG
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch372)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",CARTOON NETWORK
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch103)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",NICKELODEON
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch105)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",NICKJR.
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch124)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",MTV 90S
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch241)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",MTV STAGE
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch242)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",STINGRAY NATURESCAPE
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch367)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",STINGRAY DJAZZ
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3344)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",GEM
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3400)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",CH3888
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3888)/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",MNCTV
+http://103.113.116.150:25461/mtm1/12345/6
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",INDOSIAR
+http://103.113.116.150:25461/mtm1/12345/3
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",RCTI
+http://103.113.116.150:25461/mtm1/12345/5
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SCTV
+http://103.113.116.150:25461/mtm1/12345/4
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",GTV
+http://103.113.116.150:25461/mtm1/12345/7
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",TRANSTV
+http://103.113.116.150:25461/mtm1/12345/2
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",TRANS7
+http://103.113.116.150:25461/mtm1/12345/1
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",ANTV
+http://103.113.116.150:25461/mtm1/12345/10
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",RTV
+http://103.113.116.150:25461/mtm1/12345/14
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",NET
+http://103.113.116.150:25461/mtm1/12345/11
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",MOJI
+http://103.113.116.150:25461/mtm1/12345/15
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",MENTARI TV
+http://103.113.116.150:25461/mtm1/12345/25
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",HOREE
+http://103.113.116.150:25461/mtm1/12345/112
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",IMC
+http://103.113.116.150:25461/mtm1/12345/21
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",FLIK
+http://103.113.116.150:25461/mtm1/12345/22
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",BIOSKOP INDONESIA
+http://103.113.116.150:25461/mtm1/12345/23
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",CARTOON NETWORK
+http://103.113.116.150:25461/mtm1/12345/107
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",ANIPLUS
+http://103.113.116.150:25461/mtm1/12345/26
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",DISCOVERY
+http://103.113.116.150:25461/mtm1/12345/85
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",NAT GEO
+http://103.113.116.150:25461/mtm1/12345/86
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",NAT GEO WILD
+http://103.113.116.150:25461/mtm1/12345/87
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",ANIMAL PLANET
+http://103.113.116.150:25461/mtm1/12345/88
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",INEWS
+http://103.113.116.150:25461/mtm1/12345/8
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",TV ONE
+http://103.113.116.150:25461/mtm1/12345/9
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",METRO TV
+http://103.113.116.150:25461/mtm1/12345/12
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",KOMPAS TV
+http://103.113.116.150:25461/mtm1/12345/13
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",HBO
+http://103.113.116.150:25461/mtm1/12345/16
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",HBO HITS
+http://103.113.116.150:25461/mtm1/12345/17
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",HBO SIGNATURE
+http://103.113.116.150:25461/mtm1/12345/18
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",HBO FAMILY
+http://103.113.116.150:25461/mtm1/12345/19
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",CINEMAX
+http://103.113.116.150:25461/mtm1/12345/20
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",WARNER BROS TV
+http://103.113.116.150:25461/mtm1/12345/24
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SINDONEWS TV
+http://103.113.116.150:25461/mtm1/12345/27
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",CNN INTERNATIONAL
+http://103.113.116.150:25461/mtm1/12345/29
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",CNBC INTERNATIONAL
+http://103.113.116.150:25461/mtm1/12345/32
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",RT
+http://103.113.116.150:25461/mtm1/12345/33
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",BBC
+http://103.113.116.150:25461/mtm1/12345/34
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",ALJAZEERA
+http://103.113.116.150:25461/mtm1/12345/35
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",BLOOMBERG
+http://103.113.116.150:25461/mtm1/12345/36
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",CGTN
+http://103.113.116.150:25461/mtm1/12345/37
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",DW CHANEL
+http://103.113.116.150:25461/mtm1/12345/38
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",EURO NEWS
+http://103.113.116.150:25461/mtm1/12345/39
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",FRANCE 24
+http://103.113.116.150:25461/mtm1/12345/40
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",CNA
+http://103.113.116.150:25461/mtm1/12345/41
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",FOX NEES
+http://103.113.116.150:25461/mtm1/12345/42
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",IDX CHANEL
+http://103.113.116.150:25461/mtm1/12345/43
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SEA TODAY
+http://103.113.116.150:25461/mtm1/12345/44
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",WARKOP DKI
+http://103.113.116.150:25461/mtm1/12345/45
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",ASTRO SUPERSPORT 2
+http://103.113.116.150:25461/mtm1/12345/48
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",ASTRO SUPERSPORT 3
+http://103.113.116.150:25461/mtm1/12345/49
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",ASTRO SUPERSPORT 4
+http://103.113.116.150:25461/mtm1/12345/50
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",FIGHT SPORT
+http://103.113.116.150:25461/mtm1/12345/51
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",OPTUS SPORT
+http://103.113.116.150:25461/mtm1/12345/54
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SUPERSPORT WORLD (PREMIER LEAGUE)
+http://103.113.116.150:25461/mtm1/12345/55
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SUPERSPORT WORLD (SERI A)
+http://103.113.116.150:25461/mtm1/12345/56
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SUPERSPORT WORLD (LALIGA)
+http://103.113.116.150:25461/mtm1/12345/57
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SUPERSPORT WORLD (MOTOR SPORT)
+http://103.113.116.150:25461/mtm1/12345/58
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SUPERSPORT WORLD (TENNIS)
+http://103.113.116.150:25461/mtm1/12345/59
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SUPERSPORT WORLD (ACTION)
+http://103.113.116.150:25461/mtm1/12345/60
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SUPERSPORT WORLD (GOLF)
+http://103.113.116.150:25461/mtm1/12345/61
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SUPERSPORT WORLD (CRICKET)
+http://103.113.116.150:25461/mtm1/12345/62
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SUPERSPORT WORLD (AFRICA CUP)
+http://103.113.116.150:25461/mtm1/12345/63
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SUPERSPORT WORLD (RUGBY)
+http://103.113.116.150:25461/mtm1/12345/64
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",TRUE (PREMIER FOOTBALL)
+http://103.113.116.150:25461/mtm1/12345/69
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",TRUE (PREMIER FOOTBALL) 2
+http://103.113.116.150:25461/mtm1/12345/70
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",TRUE (PREMIER FOOTBALL) 3
+http://103.113.116.150:25461/mtm1/12345/71
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",TRUE SPORTS 1 (THAI)
+http://103.113.116.150:25461/mtm1/12345/72
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",TRUE SPORTS 2 (THAI)
+http://103.113.116.150:25461/mtm1/12345/73
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",TRUE SPORTS 3 (THAI)
+http://103.113.116.150:25461/mtm1/12345/74
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",TRUE VISIONS (BEIN SPORT 1)
+http://103.113.116.150:25461/mtm1/12345/75
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",TRUE VISIONS (BEIN SPORT 3)
+http://103.113.116.150:25461/mtm1/12345/76
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",TRUE TENNIS
+http://103.113.116.150:25461/mtm1/12345/77
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",HGTV
+http://103.113.116.150:25461/mtm1/12345/97
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",TLC
+http://103.113.116.150:25461/mtm1/12345/98
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",AFN
+http://103.113.116.150:25461/mtm1/12345/99
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",FOX+
+http://103.113.116.150:25461/mtm1/12345/122
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",FOX SPORTS
+http://103.113.116.150:25461/mtm1/12345/123
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",FOX SPORTS 2
+http://103.113.116.150:25461/mtm1/12345/124
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",EURO SPORTS 1
+http://103.113.116.150:25461/mtm1/12345/125
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",EURO SPORTS 2
+http://103.113.116.150:25461/mtm1/12345/126
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SKY SPORT (PREMIER LEAGE)
+http://103.113.116.150:25461/mtm1/12345/127
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SKY SPORTS (FOOTBALL)
+http://103.113.116.150:25461/mtm1/12345/128
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SKY SPORTS (EFL)
+http://103.113.116.150:25461/mtm1/12345/129
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SKY SPORTS (FORMULA)
+http://103.113.116.150:25461/mtm1/12345/130
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SKY SPORTS (CRICKET)
+http://103.113.116.150:25461/mtm1/12345/131
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SKY PROTECT
+http://103.113.116.150:25461/mtm1/12345/132
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SKY SPORTS (GOLF)
+http://103.113.116.150:25461/mtm1/12345/133
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",ASTRO CRICKET
+http://103.113.116.150:25461/mtm1/12345/134
